@@ -1,20 +1,21 @@
 # CHANAKYA
 
-> *धर्मार्थकाममोक्षाणामुपायः सदुपेक्षते। त्रयीवार्ता दण्डनीतिश्चाङ्गानि यस्य दन्दिनः॥*
+> *知己知彼，百战不殆*  
 >  
-> "He who understands the means to dharma, artha, kama, and moksha, who knows the Trayi, Varta, and Danda-niti — he commands the science of statecraft."
+> "Know yourself and know your enemy, and you will never be defeated in a hundred battles."  
+> — Sun Tzu, The Art of War
 
-> *அறிவுடையார் எல்லா முடையார், அறிவிலார்  
-> எல்லாம் இலார், உலகு.*
+> *Кто владеет информацией, тот владеет миром*  
 >  
-> "Those with knowledge possess everything; those without knowledge possess nothing in this world."  
-> — Thirukkural 421
+> "Who controls information, controls the world."  
+> — Russian Strategic Doctrine
 
 **CHANAKYA** is not an OPSEC checklist.  
 **CHANAKYA** is not a compliance framework.  
 **CHANAKYA** is not a product.
 
 CHANAKYA is a research framework for understanding **how operational security fails through emergent signal correlation across abstraction layers**.
+
 
 ---
 
@@ -345,5 +346,7 @@ Inspired by:
 
 ---
 
-*असतो मा सद्गमय। तमसो मा ज्योतिर्गमय।*  
-*From untruth, lead me to truth. From darkness, lead me to light.*
+*הידע כוח* (Ha'yeda koach)  
+*Knowledge is power.*
+
+CHANAKYA: Where signals converge, attribution emerges.

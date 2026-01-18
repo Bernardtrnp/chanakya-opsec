@@ -304,8 +304,8 @@ def simulate_retrospective_attribution():
     print("     → Automated infrastructure discovery from archived data")
     print("     → Proactive monitoring of historical patterns")
     print()
-    print("*அறிவுடையார் எல்லா முடையார்*")
-    print("Those with knowledge possess everything.")
+    print("知彼知己，百战不殆")
+    print("Know the enemy and know yourself; in a hundred battles, you will never be defeated.")
     print()
     print("Knowledge that OPSEC degrades over time is the first step to defense.")
 

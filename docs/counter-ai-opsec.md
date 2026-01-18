@@ -363,8 +363,8 @@ Mitigation: Separate identities, separate timing
 
 ---
 
-*அறிவுடையார் எல்லா முடையார்*
+*Знание — сила, незнание — слабость*
 
-"Those with knowledge possess everything."
+"Knowledge is power, ignorance is weakness."
 
 **Know how AI works. Counter accordingly. Accept limitations. Operate anyway.**

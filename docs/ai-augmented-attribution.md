@@ -524,8 +524,9 @@ What was "good OPSEC" in 2024 may be trivially defeated by 2026 AI/ML platforms.
 
 ---
 
-*அறிவுடையார் எல்லா முடையார், அறிவிலார் எல்லாம் இலார், உலகு.*
+*兵者，诡道也* (Bīng zhě, guǐdào yě)
 
-"Those with knowledge possess everything; those without knowledge possess nothing in this world."
+"All warfare is based on deception."
+— Sun Tzu
 
-**In the AI era, knowledge of how attribution works is the only defense.**
+**In the AI era, deception through entropy is the only defense.**
