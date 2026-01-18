@@ -4,6 +4,12 @@
 >  
 > "He who understands the means to dharma, artha, kama, and moksha, who knows the Trayi, Varta, and Danda-niti — he commands the science of statecraft."
 
+> *அறிவுடையார் எல்லா முடையார், அறிவிலார்  
+> எல்லாம் இலார், உலகு.*
+>  
+> "Those with knowledge possess everything; those without knowledge possess nothing in this world."  
+> — Thirukkural 421
+
 **CHANAKYA** is not an OPSEC checklist.  
 **CHANAKYA** is not a compliance framework.  
 **CHANAKYA** is not a product.
@@ -173,13 +179,42 @@ CHANAKYA **is**:
 
 ## Contributing
 
-CHANAKYA evolves through research contributions. If you've identified:
-- Novel OPSEC failure modes
-- Cross-layer correlation techniques
-- Real-world attribution case studies
-- Improved threat models
+**CHANAKYA is purely open source and designed to evolve through community contributions.**
 
-See `CONTRIBUTING.md` (coming soon).
+This framework is yours to:
+- ✅ Use for research, operations, education
+- ✅ Fork and customize for your needs
+- ✅ Extend with new analyzers and correlation techniques
+- ✅ Improve and evolve collaboratively
+
+### We Welcome Contributions Of:
+- Novel OPSEC failure modes and case studies
+- Additional layer analyzers (kernel-side channels, wireless, etc.)
+- Cross-layer correlation algorithms
+- Real-world attribution case studies (anonymized)
+- Improved threat models and adversary TTPs
+- Simulation scenarios and examples
+- Documentation improvements
+- Bug fixes and performance enhancements
+
+### How to Contribute:
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-opsec-analysis`)
+3. Commit your changes (`git commit -m 'Add novel DNS correlation technique'`)
+4. Push to the branch (`git push origin feature/amazing-opsec-analysis`)
+5. Open a Pull Request
+
+**No contribution is too small.** Typo fixes, documentation improvements, and clarifications are all valuable.
+
+### Community Evolution Philosophy
+
+CHANAKYA is designed to be a **living research framework** that evolves with the OPSEC landscape:
+- Weekly updates with new failure modes
+- Community-driven research additions
+- Collaborative threat modeling
+- Open knowledge sharing
+
+**This is not a product. This is a movement toward honest, research-grade OPSEC analysis.**
 
 ---
 
@@ -198,22 +233,38 @@ See `SECURITY.md` for full legal notices and responsible disclosure guidelines.
 
 ## License
 
-[To be determined — likely MIT or Apache 2.0 for research use]
+**MIT License** — See [LICENSE](LICENSE)
+
+**You are free to:**
+- ✅ Use commercially
+- ✅ Modify and adapt
+- ✅ Distribute
+- ✅ Use privately
+
+**Under the terms:**
+- Attribution appreciated (but not required)
+- No warranty provided
+- See SECURITY.md for ethical use guidelines
+
+**This is purely open source.** Take it, evolve it, build upon it. The OPSEC research community benefits when knowledge flows freely.
 
 ---
 
 ## Citation
 
-If you use CHANAKYA in your research:
+If you use CHANAKYA in your research or operations:
 
-```
-@misc{chanakya-opsec,
+```bibtex
+@misc{chanakya-opsec-2026,
   title={CHANAKYA: Multi-Layer OPSEC Failure Analysis Framework},
+  author={bb1nfosec and contributors},
   year={2026},
-  url={https://github.com/[username]/chanakya-opsec},
-  note={Research framework for operational security failure modeling}
+  url={https://github.com/bb1nfosec/chanakya-opsec},
+  note={Open-source research framework for operational security failure modeling and cross-layer signal correlation}
 }
 ```
+
+**Attribution appreciated but not required.** This is open source — use it, evolve it, share it.
 
 ---
 
