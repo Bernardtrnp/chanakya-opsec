@@ -187,19 +187,77 @@ SOFTWARE.
 
 **For legal inquiries, removal requests, or compliance issues:**
 
+---
+
+#### **FOR DMCA & LAW ENFORCEMENT ONLY:**
+
+**📧 Email: bb1nfosec@tutamail.com**
+
+**Use this email ONLY for:**
+- ✅ Official DMCA takedown notices (copyright holders/agents)
+- ✅ Law enforcement requests (subpoenas, warrants, court orders)
+- ✅ Government/agency official inquiries
+- ✅ Legal counsel representing affected parties
+
+**Include in your email:**
+- Subject line: `[DMCA]` or `[LAW ENFORCEMENT]` or `[LEGAL]`
+- Your official capacity (attorney, law enforcement agency, copyright holder)
+- Case number or reference (if applicable)
+- Detailed request with legal basis
+- Contact information for follow-up
+
+**Response Time:** 
+- DMCA: 5 business days
+- Law Enforcement (active investigation): 24-48 hours
+- General legal: 72 hours
+
+---
+
+#### **FOR COMMUNITY REPORTING:**
+
 **Method 1: GitHub Issue (Preferred - Public Transparency)**
-- Create issue: https://github.com/bb1nfosec/chanakya-opsec/issues/new
-- Use template: `Legal - Removal Request` or `Legal - DMCA`
-- **Public by default** (transparency)
-- For sensitive requests: Email maintainers FIRST to request private handling
+- URL: https://github.com/bb1nfosec/chanakya-opsec/issues/new
+- Templates: `Legal - Removal Request` | `Legal - DMCA` | `Security - Illegal Use`
+- **Best for:** Doxing reports, content disputes, illegal use reports
+- **Public by default** (transparency & accountability)
 
-**Method 2: OPSEC-Friendly Contact**
-- **PGP-Encrypted Email** to: legal@chanakya-opsec.org (domain to be set up)
-- **PGP Public Key:** See [LEGAL-PGP.asc](LEGAL-PGP.asc)
-- For truly sensitive matters requiring anonymity
+**Method 2: Sensitive/Anonymous Contact (Future)**
+- **PGP-Encrypted Email:** legal@chanakya-opsec.org (to be set up)
+- **PGP Public Key:** See [LEGAL-PGP.asc](LEGAL-PGP.asc) (to be added)
 - **Tor .onion Address:** (To be established for high-risk whistleblowers)
+- **Best for:** Sealed court orders, whistleblower submissions
 
-**Response Time:** We aim to respond within 72 hours (3 business days)
+---
+
+#### **CONTACT DECISION TREE:**
+
+```
+Are you:
+├─ Law enforcement with subpoena/warrant? 
+│  └─> Email: bb1nfosec@tutamail.com [Subject: LAW ENFORCEMENT]
+│
+├─ Copyright holder filing DMCA?
+│  └─> Email: bb1nfosec@tutamail.com [Subject: DMCA]
+│     OR GitHub Official: https://github.com/contact/dmca
+│
+├─ Attorney representing client?
+│  └─> Email: bb1nfosec@tutamail.com [Subject: LEGAL]
+│
+├─ Reporting doxing/illegal use/content issues?
+│  └─> GitHub Issue: https://github.com/bb1nfosec/chanakya-opsec/issues/new
+│
+└─ High-risk whistleblower needing anonymity?
+   └─> Wait for PGP/Tor setup (coming soon)
+      OR use Tutanota with throwaway account
+```
+
+---
+
+**Response Time Guarantees:**
+- **Law Enforcement (urgent):** 24-48 hours
+- **DMCA:** 5 business days
+- **GitHub Issues:** 3-7 business days
+- **General Legal:** 72 hours
 
 ---
 
@@ -432,16 +490,16 @@ SOFTWARE.
 ---
 
 **Contact for Legal Matters:**
-- GitHub Issues (Preferred): https://github.com/bb1nfosec/chanakya-opsec/issues/new
-- PGP-Encrypted Email (Sensitive): See [LEGAL-PGP.asc](LEGAL-PGP.asc)
+- **DMCA & Law Enforcement:** bb1nfosec@tutamail.com
+- **Community Reports (Preferred):** https://github.com/bb1nfosec/chanakya-opsec/issues/new
+- **Sensitive/Anonymous (Future):** PGP Email [LEGAL-PGP.asc](LEGAL-PGP.asc) | Tor .onion
 
-**GitHub Issues for Technical Questions:** https://github.com/bb1nfosec/chanakya-opsec/issues
+**Technical Questions:** https://github.com/bb1nfosec/chanakya-opsec/issues
 
-**Why GitHub Issues?**
-- Public transparency (accountability)
-- Traceable (permanent record)
-- OPSEC-friendly (no email metadata leakage)
-- Community oversight
+**Why We Use Multiple Channels:**
+- **Email (DMCA/LEO):** Official legal process, required by law
+- **GitHub Issues:** Public transparency, community oversight
+- **PGP/Tor:** High-risk whistleblowers, sealed court orders
 
 ---
 

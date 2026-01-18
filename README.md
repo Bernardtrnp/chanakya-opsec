@@ -47,7 +47,8 @@ This repository is for **RESEARCH and EDUCATION ONLY**.
 
 **High-Risk Jurisdictions:** China, Russia, Saudi Arabia, UAE, Iran, North Korea (content may be illegal)
 
-**📧 Legal Compliance & Removal Requests:** bb1nfosec@protonmail.com
+**📧 DMCA & Law Enforcement Contact:** bb1nfosec@tutamail.com  
+**🐙 Community Reports:** [GitHub Issues](https://github.com/bb1nfosec/chanakya-opsec/issues/new)
 
 **📄 Full Legal Terms:** See **[LEGAL.md](LEGAL.md)** for complete disclaimer, DMCA procedures, and removal request process.
 
